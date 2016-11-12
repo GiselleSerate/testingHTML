@@ -2,12 +2,15 @@
 <html>
 <head>
 	<title>Awesome Webpage</title>
+	<link href="index.css" rel="stylesheet">
+	<script src="index.js"></script>
 </head>
 <body>
-	<div>
-		<p>This div has elements</p>
-		<img href="assets/cat.jpg"/>
-		<p>So many elements!</p>
+	<div id="headerBar">
+		<p>
+			<img src="assets/cat.jpg" alt="it's a cat!"/>
+			<h1>So many elements in this div!</h1>
+		</p>
 	</div>
 </body>
 </html>
