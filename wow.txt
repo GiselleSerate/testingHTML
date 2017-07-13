@@ -1,0 +1,8 @@
+Getting familiar with vim
+
+Edit this line
+
+Maybe we can delete this
+
+How do we search for ppp?
+
