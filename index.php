@@ -1,3 +1,5 @@
+<!-- The purpose of this page is to be the main page of my website. -->
+
 <!DOCTYPE html>
 <html>
 <head>
